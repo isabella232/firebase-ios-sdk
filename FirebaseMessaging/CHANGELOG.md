@@ -1,6 +1,3 @@
-# unreleased
-- [fixed] Fixed an issue that APNS token is not properly set sometimes when swizzling is disabled. (#6553)
-
 # 2020-09 -- v.4.7.1
 - [added] InstanceID is deprecated, add macro to suppress deprecation warning. (#6585)
 

@@ -1,3 +1,6 @@
+# Unreleased
+- [fixed] Fixed an issue that APNS token is not sent in token request when there's a delay of getting the APNS token from Apple. (#6553)
+
 # 2020-09 -- 4.7.0
 - [deprecated] Deprecated InstanceID. For app instance identity handling, use FirebaseInstallations. For FCM registration token handling, use FirebaseMessaging. (#6585)
 
